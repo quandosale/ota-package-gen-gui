@@ -1,0 +1,9 @@
+E:\Work\On\sportsapp\nrf\ota-package-gen-gui\ota-package-gen-gui\bin\Debug\ota-package-gen-gui.exe.config
+E:\Work\On\sportsapp\nrf\ota-package-gen-gui\ota-package-gen-gui\bin\Debug\ota-package-gen-gui.exe
+E:\Work\On\sportsapp\nrf\ota-package-gen-gui\ota-package-gen-gui\bin\Debug\ota-package-gen-gui.pdb
+E:\Work\On\sportsapp\nrf\ota-package-gen-gui\ota-package-gen-gui\obj\Debug\ota-package-gen-gui.csprojResolveAssemblyReference.cache
+E:\Work\On\sportsapp\nrf\ota-package-gen-gui\ota-package-gen-gui\obj\Debug\ota_package_gen_gui.Form1.resources
+E:\Work\On\sportsapp\nrf\ota-package-gen-gui\ota-package-gen-gui\obj\Debug\ota_package_gen_gui.Properties.Resources.resources
+E:\Work\On\sportsapp\nrf\ota-package-gen-gui\ota-package-gen-gui\obj\Debug\ota-package-gen-gui.csproj.GenerateResource.Cache
+E:\Work\On\sportsapp\nrf\ota-package-gen-gui\ota-package-gen-gui\obj\Debug\ota-package-gen-gui.exe
+E:\Work\On\sportsapp\nrf\ota-package-gen-gui\ota-package-gen-gui\obj\Debug\ota-package-gen-gui.pdb
